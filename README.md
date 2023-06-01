@@ -1,4 +1,4 @@
 # mysql-nodejs
 ```
-Basic NodeJS and MySQL connection and REST API's.
+Basic NodeJS and MySQL connection and CRUD operation based on REST API's.
 ```
